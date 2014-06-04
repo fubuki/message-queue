@@ -1,7 +1,7 @@
 <?php
 
 
-require_once('pheanstalk_init.php');
+require_once('../pheanstalk/pheanstalk_init.php');
 
 $pheanstalk = new Pheanstalk_Pheanstalk('127.0.0.1');
 
