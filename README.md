@@ -17,5 +17,9 @@ php : [pheanstalk]
 
 gearman library
 
+node.js : [gearmaNode
+php : [pecl gearman]
+
+
 [gearmaNode]:https://github.com/veny/GearmaNode
 [pecl gearman]:http://pecl.php.net/package/gearman
