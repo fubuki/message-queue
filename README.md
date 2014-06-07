@@ -14,3 +14,8 @@ php : [pheanstalk]
 
 [nodestalker]:https://github.com/pascalopitz/nodestalker
 [pheanstalk]: https://github.com/pda/pheanstalk/ 
+
+gearman library
+
+[gearmaNode]:https://github.com/veny/GearmaNode
+[pecl gearman]:http://pecl.php.net/package/gearman
