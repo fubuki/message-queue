@@ -1,3 +1,6 @@
 [submodule "pheanstalk"]
 	path = pheanstalk
 	url = https://github.com/pda/pheanstalk.git
+[submodule "phpMQTT"]
+	path = phpMQTT
+	url = https://github.com/bluerhinos/phpMQTT
