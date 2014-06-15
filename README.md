@@ -23,3 +23,13 @@ php : [pecl gearman]
 
 [gearmaNode]:https://github.com/veny/GearmaNode
 [pecl gearman]:http://pecl.php.net/package/gearman
+
+
+
+mqtt libaray 
+
+node.js : [MQTT.js]  
+php : [phpMQTT]  
+
+[MQTT.js]: https://github.com/adamvr/MQTT.js
+[phpMQTT]: https://github.com/bluerhinos/phpMQTT
